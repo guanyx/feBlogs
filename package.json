@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guanyx/feBlogs/issues"
   },
-  "homepage": "https://github.com/guanyx/feBlogs#readme"
+  "homepage": "https://github.com/guanyx/feBlogs#readme",
+  "dependencies": {
+    "x-ray": "^2.0.3"
+  }
 }
